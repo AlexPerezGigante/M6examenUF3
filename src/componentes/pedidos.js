@@ -7,7 +7,7 @@ export const pedidos = {
     <h3>Grupo</h3>
     <form novalidate>
     <label for="nombreGrupo" class="label-control ">Nombre del grupo:</label>
-    <input required min-length=4 max-length=10 type="text" class="form-control mt-2 nombre" placeholder ="Borrachos de DAW2">
+    <input required minlength=4 maxlength=10 type="text" class="form-control mt-2 nombre" placeholder ="Borrachos de DAW2">
     <div class="invalid-feedback">
         Nombre entre 4 y 10 letras
     </div>
