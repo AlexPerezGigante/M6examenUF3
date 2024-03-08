@@ -5,7 +5,7 @@ export const bd = [
       tipo: "Lager",
       origen: "Madrid",
       descripcion: "Cerveza rubia, suave y refrescante con un sabor ligeramente amargo.",
-      imagen: "https://www.mahou.es/wp-content/themes/mahou_v2/template-contents/mahou-familia/dist/images/Botella_Mahou_5_Estrellas.png"
+      imagen: "https://vinopremier.com/media/catalog/product/cache/070e1948fa79794c1092c01c58a07334/c/e/cerveza-mahou-5-estrellas-33cl-vinopremier_1.jpg"
     },
     {
       id: 22,
@@ -13,7 +13,7 @@ export const bd = [
       tipo: "Lager",
       origen: "Galicia",
       descripcion: "Cerveza suave y equilibrada con un sabor ligeramente amargo y aroma a malta.",
-      imagen: "https://cdn.shopify.com/s/files/1/0271/8158/0388/products/estrella-galicia-escerveza-3.jpg?v=1648893181"
+      imagen: "https://www.crusat.com/wp-content/uploads/2021/07/estrella-galicia-especial.png"
     },
     {
       id: 33,

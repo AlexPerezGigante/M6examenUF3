@@ -1,5 +1,5 @@
 import { pedidos } from "../componentes/pedidos"
-import { tablaPedidos } from "../componentes/tablaPedidos"
+
 
 export const home = {
     template: `
@@ -23,6 +23,5 @@ export const home = {
     ,
     script:()=>{
         pedidos.script()
-        tablaPedidos.script()
     }
 }
