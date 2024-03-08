@@ -12,7 +12,7 @@ export const pedidos = {
         Nombre entre 4 y 10 letras
     </div>
     <label for="numeroMesa" class="label-control">Mesa numero</label>
-    <input min=1 max=15 type="number" class="form-control mt-2 mesa" placeholder ="0">
+    <input required min=1 max=15 type="number" class="form-control mt-2 mesa" placeholder ="0">
     <div class="invalid-feedback">
         Num mesa del 1 al 15
     </div>
